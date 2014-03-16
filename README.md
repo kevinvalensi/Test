@@ -4,9 +4,11 @@ Test
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Destock</title>
 </head>
 <body>
-	
+	<ul>
+		<li>Accueil</li>
+	</ul>
 </body>
 </html>
