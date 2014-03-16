@@ -9,6 +9,7 @@ Test
 <body>
 	<ul>
 		<li>Accueil</li>
+		<li>Profile</li>
 	</ul>
 </body>
 </html>
