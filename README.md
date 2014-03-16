@@ -10,6 +10,7 @@ Test
 	<ul>
 		<li>Accueil</li>
 		<li>Profile</li>
+		<li>C'est OK</li>
 	</ul>
 </body>
 </html>
