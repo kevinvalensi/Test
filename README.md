@@ -1,16 +1,12 @@
 Test
 ====
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-RSGDHFJGKHJLJL
-ILAN LA PTITE
-
-hijhjojojo
-=======
-RSGDHFJGKHJLJL lnjblblb
->>>>>>> FETCH_HEAD
-=======
-RSGDHFJGKHJLJL lnjblblb
->>>>>>> FETCH_HEAD
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
